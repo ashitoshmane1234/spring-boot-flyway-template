@@ -10,9 +10,6 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 import org.hibernate.annotations.DynamicUpdate;
 
-/**
- * @author Mindbowser | rohit.kavthekar@mindbowser.com
- */
 @Entity
 @Table(name = "users")
 @DynamicUpdate
