@@ -1,7 +1,0 @@
--- INSERT INTO users (uuid, name, entity_status, created_at, updated_at, is_active)
--- VALUES
---     ('uuid-1', 'Alice Johnson', 'ACTIVE', NOW(), NOW(), TRUE),
---     ('uuid-2', 'Bob Smith', 'ACTIVE', NOW(), NOW(), TRUE),
---     ('uuid-3', 'Charlie Brown', 'SUSPENDED', NOW(), NOW(), FALSE),
---     ('uuid-4', 'Diana Prince', 'ACTIVE', NOW(), NOW(), TRUE),
---     ('uuid-5', 'Ethan Hunt', 'DELETED', NOW(), NOW(), FALSE);
